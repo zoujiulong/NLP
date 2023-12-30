@@ -1,6 +1,6 @@
 # NLP-理论+动手(小白必备)
 ## 1.决策树
-###预备知识
+### 预备知识
 * [KL散度](https://zhuanlan.zhihu.com/p/100676922)<br>
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/139523931)<br>
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/139523931)<br>
