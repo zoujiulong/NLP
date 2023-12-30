@@ -2,6 +2,6 @@
 ## 1.决策树
 []
 ## 2.激活函数
-<p>[GELU]</p>
+[GELU]
 [GLU]()
 [SwiGLU](https://zhuanlan.zhihu.com/p/650237644)
