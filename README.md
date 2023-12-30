@@ -28,6 +28,7 @@
 ## 4.NLP基础模型详解
 ### 预备知识
 [卷积](https://blog.csdn.net/weixin_44826203/article/details/126505670)<br>
+### 模型
 1.[CNN详解](https://zhuanlan.zhihu.com/p/115740415)<br>
 2.[LSTM详解]()<br>
 3.[GAN详解](https://zhuanlan.zhihu.com/p/28853704)<br>
