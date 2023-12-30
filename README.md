@@ -12,7 +12,7 @@
 [GLU]()<br>
 [SwiGLU](https://zhuanlan.zhihu.com/p/650237644)
 ## 3.NLP之Embedding方法
-###预备知识
+### 预备知识
 * [EM算法详解](https://zhuanlan.zhihu.com/p/40991784)<br>
 * [维度灾难](https://www.zhihu.com/question/27836140)<br>
 * [SVD](https://zhuanlan.zhihu.com/p/29846048)<br>
