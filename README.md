@@ -1,5 +1,8 @@
 # NLP-理论+动手(小白必备)
-## 1.决策树
+## 1.常用库
+[NLTK](https://www.nltk.org/)<br>
+[]()<br>
+## 2.决策树
 ### 预备知识
 * [KL散度](https://zhuanlan.zhihu.com/p/100676922)<br>
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/85731206)<br>
@@ -7,11 +10,11 @@
 ### Xgboost预备知识
 [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
 
-## 2.激活函数
+## 3.激活函数
 [GELU]<br>
 [GLU]()<br>
 [SwiGLU](https://zhuanlan.zhihu.com/p/650237644)
-## 3.NLP之Embedding方法
+## 4.NLP之Embedding方法
 ### 预备知识
 * [EM算法详解](https://zhuanlan.zhihu.com/p/40991784)<br>
 * [维度灾难](https://www.zhihu.com/question/27836140)<br>
@@ -21,11 +24,13 @@
 * [层softmax](https://zhuanlan.zhihu.com/p/612506559)<br>
 [Glove]()<br>
 [FastText]()<br>
-## 3.subword模型
+## 5.subword模型
 ### 预备知识
 [N-gram](https://zhuanlan.zhihu.com/p/32829048)<br>
-[BPE、WordPiece、Uni]<br>
-## 4.NLP基础模型详解
+[词袋]()<br>
+[TF-IDF]
+[BPE、WordPiece、Uni]()<br>
+## 6.NLP基础模型详解
 ### 预备知识
 [卷积](https://blog.csdn.net/weixin_44826203/article/details/126505670)<br>
 ### 模型
@@ -39,7 +44,7 @@
 5.[Bert详解](https://zhuanlan.zhihu.com/p/98855346)<br>
 * [Bert三大Embedding详解](https://blog.csdn.net/weixin_48185819/article/details/122042452)<br>
 6.[]
-## 5.大模型
+## 7.大模型
 [LLaMa]
 
 
