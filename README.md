@@ -3,5 +3,5 @@
 []
 ## 2.激活函数
 <p>[GELU]</p>
-<p></p>[GLU]()</p>
+[GLU]()
 [SwiGLU](https://zhuanlan.zhihu.com/p/650237644)
