@@ -1,7 +1,7 @@
 # NLP-理论+动手(小白必备)
 ## 1.常用库
 [NLTK](https://www.nltk.org/)<br>
-[]()<br>
+[Spacy]()<br>
 ## 2.决策树
 ### 预备知识
 * [KL散度](https://zhuanlan.zhihu.com/p/100676922)<br>
@@ -12,6 +12,7 @@
 * [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
 * [通俗理解Bagging和Boosting](https://zhuanlan.zhihu.com/p/37730184)<br>
 * [前向分步算法](https://blog.csdn.net/kateswall/article/details/70765767)<br>
+[XGboost](https://zhuanlan.zhihu.com/p/162001079)<br>
 ## 3.激活函数
 [GELU]<br>
 [GLU]()<br>
