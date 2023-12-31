@@ -50,6 +50,7 @@
 ## 7.大模型
 ### 预备知识
 #### prompt
+[few shot入门](https://zhuanlan.zhihu.com/p/156830039)<br>
 [通俗理解prompt](https://zhuanlan.zhihu.com/p/621522709)<br>
 [prompt深入](https://zhuanlan.zhihu.com/p/399295895)<br>
 [LLM的三种架构](https://zhuanlan.zhihu.com/p/642923989)<br>
