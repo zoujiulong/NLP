@@ -55,6 +55,9 @@
 [prompt深入](https://zhuanlan.zhihu.com/p/399295895)<br>
 [LLM的三种架构](https://zhuanlan.zhihu.com/p/642923989)<br>
 [LLaMa]
+* [旋转位置编码RoEmbedding](https://zhuanlan.zhihu.com/p/642884818)<br>
+* []()<br>
+* []()<br>
 
 
 
