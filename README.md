@@ -7,6 +7,7 @@
 * [KL散度](https://zhuanlan.zhihu.com/p/100676922)<br>
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/85731206)<br>
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/139523931)<br>
+[CART回归树](https://zhuanlan.zhihu.com/p/139519852)<br>
 ### Xgboost预备知识
 * [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
 * [通俗理解Bagging和Boosting](https://zhuanlan.zhihu.com/p/37730184)<br>
