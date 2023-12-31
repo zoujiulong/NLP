@@ -9,7 +9,7 @@
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/139523931)<br>
 ### Xgboost预备知识
 [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
-[GB]
+[通俗理解Bagging和Boosting](https://zhuanlan.zhihu.com/p/37730184)<br>
 ## 3.激活函数
 [GELU]<br>
 [GLU]()<br>
