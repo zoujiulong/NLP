@@ -9,7 +9,7 @@
 [ID3、C4.5、CART](https://zhuanlan.zhihu.com/p/139523931)<br>
 ### Xgboost预备知识
 [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
-
+[GB]
 ## 3.激活函数
 [GELU]<br>
 [GLU]()<br>
@@ -45,6 +45,10 @@
 * [Bert三大Embedding详解](https://blog.csdn.net/weixin_48185819/article/details/122042452)<br>
 6.[]
 ## 7.大模型
+### 预备知识
+#### prompt
+[通俗理解prompt](https://zhuanlan.zhihu.com/p/621522709)<br>
+[prompt深入](https://zhuanlan.zhihu.com/p/399295895)<br>
 [LLaMa]
 
 
