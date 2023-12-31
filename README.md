@@ -10,6 +10,7 @@
 ### Xgboost预备知识
 [集成学习](https://zhuanlan.zhihu.com/p/39920405)<br>
 [通俗理解Bagging和Boosting](https://zhuanlan.zhihu.com/p/37730184)<br>
+[前向分步算法](https://blog.csdn.net/kateswall/article/details/70765767)<br>
 ## 3.激活函数
 [GELU]<br>
 [GLU]()<br>
