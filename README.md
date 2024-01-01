@@ -55,6 +55,8 @@
 [通俗理解prompt](https://zhuanlan.zhihu.com/p/621522709)<br>
 [prompt深入](https://zhuanlan.zhihu.com/p/399295895)<br>
 [LLM的三种架构](https://zhuanlan.zhihu.com/p/642923989)<br>
+### fine-tune
+[LoRA](https://zhuanlan.zhihu.com/p/650197598)<br>
 ### LLaMa
 [LLaMa 1](https://zhuanlan.zhihu.com/p/648774481)<br>
 * [旋转位置编码RoEmbedding](https://zhuanlan.zhihu.com/p/642884818)<br>
