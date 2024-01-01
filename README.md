@@ -66,6 +66,8 @@
 * [旋转位置编码RoEmbedding](https://zhuanlan.zhihu.com/p/642884818)<br>
 * []()<br>
 * []()<br>
+### GLM
+[GLM详解](https://zhuanlan.zhihu.com/p/630134021)<br>
 
 
 
