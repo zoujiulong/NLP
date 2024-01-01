@@ -44,8 +44,10 @@
 4.[Transformer详解](https://zhuanlan.zhihu.com/p/338817680)<br>
 * [Transformer中Position Embedding理解](https://www.zhihu.com/question/347678607)<br>
 * [BatchNorm与LayerNorm](https://zhuanlan.zhihu.com/p/74516930)<br>
+
 5.[Bert详解](https://zhuanlan.zhihu.com/p/98855346)<br>
 * [Bert三大Embedding详解](https://blog.csdn.net/weixin_48185819/article/details/122042452)<br>
+
 6.[]
 ## 7.大模型
 ### 预备知识
