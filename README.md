@@ -52,6 +52,7 @@
 #### prompt
 [学习率衰减策略](https://zhuanlan.zhihu.com/p/93624972)<br>
 [few shot入门](https://zhuanlan.zhihu.com/p/156830039)<br>
+[zero shot、one shot、few shot](https://zhuanlan.zhihu.com/p/624793654)<br>
 [通俗理解prompt](https://zhuanlan.zhihu.com/p/621522709)<br>
 [prompt深入](https://zhuanlan.zhihu.com/p/399295895)<br>
 [LLM的三种架构](https://zhuanlan.zhihu.com/p/642923989)<br>
