@@ -72,6 +72,8 @@
 [GLM详解](https://zhuanlan.zhihu.com/p/630134021)<br>
 ### GPT
 [GPT详解](https://zhuanlan.zhihu.com/p/350017443)<br>
+### T5
+[T5](https://www.jianshu.com/p/627d4643f7a7)<br>
 
 
 
