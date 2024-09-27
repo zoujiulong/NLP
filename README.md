@@ -1,4 +1,4 @@
-# NLP-理论+动手(小白必备)
+# NLP面经
 ## 1.常用库
 [NLTK](https://www.nltk.org/)<br>
 [Spacy]()<br>
